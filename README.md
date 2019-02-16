@@ -12,3 +12,6 @@
 * MVVM
 
 ![](https://github.com/zijiazhai/Swift4-Tools/blob/master/WaterFlow/WaterFlow.gif)
+
+## PageTitleView
+![](https://github.com/zijiazhai/Swift4-Tools/blob/master/PageTitleView/PageTitleView.gif)
