@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WaterFlow/WaterFlow/ZJCollectionFlowLayout.swift"
+            timestampString = "572034880.0710469"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "prepare()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WaterFlow.ZJCollectionFlowLayout.prepare() -&gt; ()"
+                  moduleName = "WaterFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zijia/Desktop/%E6%88%91%E7%9A%84iOS%20%E6%BA%90%E4%BB%A3%E7%A0%81/Swift4-Tools/WaterFlow/WaterFlow/WaterFlow/ZJCollectionFlowLayout.swift"
+                  timestampString = "572034079.013809"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "553">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WaterFlow.ZJCollectionFlowLayout.prepare() -&gt; ()"
+                  moduleName = "WaterFlow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zijia/Desktop/%E6%88%91%E7%9A%84iOS%20%E6%BA%90%E4%BB%A3%E7%A0%81/Swift4-Tools/WaterFlow/WaterFlow/WaterFlow/ZJCollectionFlowLayout.swift"
+                  timestampString = "572034079.016907"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WaterFlow/WaterFlow/ZJCollectionFlowLayout.swift"
+            timestampString = "572034880.071108"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "computeAttributesWithItemWidth(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WaterFlow/WaterFlow/ZJCollectionFlowLayout.swift"
+            timestampString = "572034880.0711581"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "computeAttributesWithItemWidth(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WaterFlow/WaterFlow/ZJCollectionFlowLayout.swift"
+            timestampString = "572034880.07121"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "computeAttributesWithItemWidth(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -2,3 +2,6 @@
 
 ### StretchHeader
 ![](https://github.com/zijiazhai/Swift4-Tools/blob/master/StretchHeader/ezgif.com-video-to-gif.gif)
+
+### WaterFlow
+![](https://github.com/zijiazhai/Swift4-Tools/blob/master/WaterFlow/WaterFlow.gif)
