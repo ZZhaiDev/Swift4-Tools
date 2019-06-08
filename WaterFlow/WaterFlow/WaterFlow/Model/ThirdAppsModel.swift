@@ -18,7 +18,4 @@ struct ThirdAppsModel: Codable{
     var RegisterURLScheme: String?
     var AppStatus: String?
     var RegisterAppIcon: String?
-    
-//    var h:Int = 0
-//    var w:Int = 0
 }

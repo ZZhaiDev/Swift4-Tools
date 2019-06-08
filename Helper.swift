@@ -62,6 +62,16 @@ func ZJPrint<T>(_ message : T, file : String = #file, lineNumber : Int = #line) 
     #endif
 }
 
+//get height with  width and textFont
+func calculateHeight(width: CGFloat, textFont: UIFont) -> CGFloat{
+    let approximateWidthOfContent = width
+    let size = CGSize(width: approximateWidthOfContent, height: 2000)
+    let attributes = [NSAttributedString.Key.font: textFont]
+    let estimatedFrame = NSString(string: descriptionVaule).boundingRect(with: size, options: .usesLineFragmentOrigin, attributes: attributes, context: nil)
+    let height = estimatedFrame.height
+    return height
+}
+
 extension UIColor{
     static func rgb(red: CGFloat, green: CGFloat, blue: CGFloat) -> UIColor{
         return UIColor(red: red/255, green: green/255, blue: blue/255, alpha: 1)
