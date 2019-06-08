@@ -8,7 +8,7 @@
 * UIBarButtonItem Extension
 * UIColor Extension
 * Date Extension
-* Get Dynamic Height with Width and Text-Font
+* Get Dynamic Height with Width, Text-Font, and Text
 * UIApplication Extension: get topViewController && firstViewController
 * UIDevice Extension: get device type
 * UIView Extension:  pure code autoLayout
