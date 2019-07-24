@@ -34,3 +34,11 @@
 <p float="left">
 <img width="139" height="301" src="https://github.com/zijiazhai/Swift4-Tools/blob/master/GradientView/image.png">
 </p>
+
+## AlertView - Animation
+<p float="left">
+<img width="139" height="301" src="https://github.com/zijiazhai/Swift4-Tools/blob/master/AlertView/1.png">
+<img width="139" height="301" src="https://github.com/zijiazhai/Swift4-Tools/blob/master/AlertView/2.png">
+<img width="139" height="301" src="https://github.com/zijiazhai/Swift4-Tools/blob/master/AlertView/3.png">
+<img width="139" height="301" src="https://github.com/zijiazhai/Swift4-Tools/blob/master/AlertView/4.png">
+</p>
