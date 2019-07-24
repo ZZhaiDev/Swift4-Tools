@@ -29,3 +29,8 @@
 
 ## PageTitleView
 ![](https://github.com/zijiazhai/Swift4-Tools/blob/master/PageTitleView/PageTitleView.gif)
+
+## GradientView
+<p float="left">
+<img width="139" height="301" src="https://github.com/zijiazhai/Swift4-Tools/blob/master/GradientView/image.png">
+</p>
