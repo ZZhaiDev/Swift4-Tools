@@ -21,6 +21,10 @@
 		A496EC5822F37CFA002BF670 /* SpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A496EC5422F37CFA002BF670 /* SpacerView.swift */; };
 		A496EC5922F37CFA002BF670 /* CustomMenuHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A496EC5522F37CFA002BF670 /* CustomMenuHeaderView.swift */; };
 		A496EC5A22F37CFA002BF670 /* ProfileImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A496EC5622F37CFA002BF670 /* ProfileImageView.swift */; };
+		A496EC5D22F4C6A9002BF670 /* ChatroomsMenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A496EC5B22F4C6A9002BF670 /* ChatroomsMenuController.swift */; };
+		A496EC5E22F4C6A9002BF670 /* ChatroomMenuContainerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A496EC5C22F4C6A9002BF670 /* ChatroomMenuContainerController.swift */; };
+		A496EC6022F4C6FF002BF670 /* Extensions+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A496EC5F22F4C6FF002BF670 /* Extensions+UIView.swift */; };
+		A496EC6222F4C717002BF670 /* ChatroomMenuCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A496EC6122F4C716002BF670 /* ChatroomMenuCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +65,10 @@
 		A496EC5422F37CFA002BF670 /* SpacerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpacerView.swift; sourceTree = "<group>"; };
 		A496EC5522F37CFA002BF670 /* CustomMenuHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomMenuHeaderView.swift; sourceTree = "<group>"; };
 		A496EC5622F37CFA002BF670 /* ProfileImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileImageView.swift; sourceTree = "<group>"; };
+		A496EC5B22F4C6A9002BF670 /* ChatroomsMenuController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatroomsMenuController.swift; sourceTree = "<group>"; };
+		A496EC5C22F4C6A9002BF670 /* ChatroomMenuContainerController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatroomMenuContainerController.swift; sourceTree = "<group>"; };
+		A496EC5F22F4C6FF002BF670 /* Extensions+UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Extensions+UIView.swift"; sourceTree = "<group>"; };
+		A496EC6122F4C716002BF670 /* ChatroomMenuCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatroomMenuCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +122,7 @@
 				A496EC4822F37CE4002BF670 /* Controller */,
 				A496EC4722F37CDE002BF670 /* View */,
 				A496EC1922F37C90002BF670 /* AppDelegate.swift */,
+				A496EC5F22F4C6FF002BF670 /* Extensions+UIView.swift */,
 				A496EC2022F37C92002BF670 /* Assets.xcassets */,
 				A496EC2222F37C92002BF670 /* LaunchScreen.storyboard */,
 				A496EC2522F37C92002BF670 /* Info.plist */,
@@ -142,6 +151,7 @@
 		A496EC4722F37CDE002BF670 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				A496EC6122F4C716002BF670 /* ChatroomMenuCell.swift */,
 				A496EC5522F37CFA002BF670 /* CustomMenuHeaderView.swift */,
 				A496EC5322F37CFA002BF670 /* MenuItemCell.swift */,
 				A496EC5622F37CFA002BF670 /* ProfileImageView.swift */,
@@ -158,6 +168,8 @@
 				A496EC4C22F37CF2002BF670 /* HomeController.swift */,
 				A496EC4D22F37CF2002BF670 /* ListsController.swift */,
 				A496EC4B22F37CF2002BF670 /* MenuController.swift */,
+				A496EC5B22F4C6A9002BF670 /* ChatroomsMenuController.swift */,
+				A496EC5C22F4C6A9002BF670 /* ChatroomMenuContainerController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -297,6 +309,10 @@
 				A496EC5822F37CFA002BF670 /* SpacerView.swift in Sources */,
 				A496EC5922F37CFA002BF670 /* CustomMenuHeaderView.swift in Sources */,
 				A496EC4E22F37CF2002BF670 /* BookmarksController.swift in Sources */,
+				A496EC6022F4C6FF002BF670 /* Extensions+UIView.swift in Sources */,
+				A496EC5E22F4C6A9002BF670 /* ChatroomMenuContainerController.swift in Sources */,
+				A496EC6222F4C717002BF670 /* ChatroomMenuCell.swift in Sources */,
+				A496EC5D22F4C6A9002BF670 /* ChatroomsMenuController.swift in Sources */,
 				A496EC5A22F37CFA002BF670 /* ProfileImageView.swift in Sources */,
 				A496EC5122F37CF2002BF670 /* HomeController.swift in Sources */,
 				A496EC5222F37CF2002BF670 /* ListsController.swift in Sources */,

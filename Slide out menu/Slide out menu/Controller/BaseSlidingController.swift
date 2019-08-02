@@ -189,7 +189,8 @@ class BaseSlidingController: UIViewController {
     }
     
     fileprivate func setupViewControllers() {
-        let menuController = MenuController()
+//        let menuController = MenuController()
+        let menuController = ChatroomMenuContainerController()
         
         let homeView = rightViewController.view!
         let menuView = menuController.view!
